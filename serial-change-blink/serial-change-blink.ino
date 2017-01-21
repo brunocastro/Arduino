@@ -17,3 +17,5 @@ void loop() {
     changeBlink(byteRecived, LED_BUILTIN);
   }
 }
+
+//repository: https://github.com/brunocastro/Arduino/tree/master/serial-change-blink
