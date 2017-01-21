@@ -18,4 +18,4 @@ void loop() {
   }
 }
 
-//repository: https://github.com/brunocastro/Arduino/tree/master/serial-change-blink
+//repository: https://github.com/brunocastro/Arduino/tree/master/coursera-specialization-iot/module2/serial-change-blink

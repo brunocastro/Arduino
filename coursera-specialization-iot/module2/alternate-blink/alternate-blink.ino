@@ -13,3 +13,5 @@ void loop() {
  pulse(LED_BUILTIN, 5, 500);
  pulse(LED_BUILTIN, 5, 2000);
 }
+
+//repository: https://github.com/brunocastro/Arduino/tree/master/coursera-specialization-iot/module2/alternate-blink
