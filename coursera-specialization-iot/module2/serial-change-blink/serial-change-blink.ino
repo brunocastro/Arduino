@@ -17,5 +17,3 @@ void loop() {
     changeBlink(byteRecived, LED_BUILTIN);
   }
 }
-
-//repository: https://github.com/brunocastro/Arduino/tree/master/coursera-specialization-iot/module2/serial-change-blink
