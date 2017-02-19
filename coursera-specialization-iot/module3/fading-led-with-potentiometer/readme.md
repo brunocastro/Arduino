@@ -1,4 +1,4 @@
-#fading led with potentiometer
+#Fading led with potentiometer
 ##exercise of module 3 at course arduino platform.
 
 
