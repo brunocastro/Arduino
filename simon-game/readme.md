@@ -1,7 +1,7 @@
 #Simon Game - in progress
-##This is my Simon game made on Arduino. This code has educational purposes.
+##This is a free exercise to practice C++ and Arduino
 
-"Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison,[1] with software programming by Lenny Cope, The device creates a series of tones and lights and requires a user to repeat the series."
+Simon game is an old game with a console of 4 large buttons. The gamer needs to repeat the sequence of colors that is added in random order as he press the right sequence.
 
 Fork and play the game! Sign the sound.
 
