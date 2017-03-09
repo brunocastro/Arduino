@@ -6,6 +6,6 @@ Simon game is an old game with a console of 4 large buttons. The gamer needs to 
 Fork and play the game! Sign the sound.
 
 ####Schematic:
-[schematic image of simons game.](http://i.imgur.com/IMhfnq6.png)
+![schematic image of simons game.](http://i.imgur.com/IMhfnq6.png)
 
 This code is licensed as Creative Commons 3.0
